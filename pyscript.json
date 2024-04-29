@@ -1,0 +1,67 @@
+{
+    "moedas": [
+        {
+            "valor_nominal": 0.01,
+            "quantidade": 10
+        },
+        {
+            "valor_nominal": 0.02,
+            "quantidade": 10
+        },
+        {
+            "valor_nominal": 0.05,
+            "quantidade": 10
+        },
+        {
+            "valor_nominal": 0.1,
+            "quantidade": 10
+        },
+        {
+            "valor_nominal": 0.2,
+            "quantidade": 10
+        },
+        {
+            "valor_nominal": 0.5,
+            "quantidade": 10
+        },
+        {
+            "valor_nominal": 1,
+            "quantidade": 10
+        },
+        {
+            "valor_nominal": 2,
+            "quantidade": 10
+        }
+    ],
+    "notas": [
+        {
+            "denominacao": 5,
+            "quantidade": 10
+        },
+        {
+            "denominacao": 10,
+            "quantidade": 10
+        },
+        {
+            "denominacao": 20,
+            "quantidade": 9
+        },
+        {
+            "denominacao": 50,
+            "quantidade": 10
+        },
+        {
+            "denominacao": 100,
+            "quantidade": 10
+        },
+        {
+            "denominacao": 200,
+            "quantidade": 10
+        }
+    ],
+    "tal\u00e3o": {
+        "despesa": 80,
+        "dinheiro_inserido": 100.0,
+        "troco": 20.0
+    }
+}
