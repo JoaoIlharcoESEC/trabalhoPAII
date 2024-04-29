@@ -44,7 +44,7 @@
         },
         {
             "denominacao": 20,
-            "quantidade": 9
+            "quantidade": 10
         },
         {
             "denominacao": 50,
@@ -60,8 +60,8 @@
         }
     ],
     "tal\u00e3o": {
-        "despesa": 80,
-        "dinheiro_inserido": 100.0,
-        "troco": 20.0
+        "despesa": 0,
+        "dinheiro_inserido": 0,
+        "troco": 0
     }
 }
